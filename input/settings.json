@@ -1,0 +1,16 @@
+{
+  "Camera_Position": [ 11, 0, 1 ],
+  "Camera_Pointing": [ 0, 0, 0 ],
+  "Up_Vector": [ 0, 0, 1 ],
+  "a_bound": 0,
+  "b_bound": 30,
+  "Geodesic_Solver_Steps": 500,
+  "Collision_Solver_Steps": 500,
+  "Threads_Per_Block": 128,
+  "Horziontal_FOV_Degrees": 45,
+  "Horizontal_Resolution": 128,
+  "Vertical_Resolution": 128,
+  "Background_Color": [ 0.25, 0.25, 0.25 ],
+  "Mode": 0,
+  "Number_Of_Particles": 11
+}
